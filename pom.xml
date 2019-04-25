@@ -91,6 +91,8 @@
         <module>plugin-unstructured-storage-util</module>
         <module>hbase20xsqlreader</module>
         <module>hbase20xsqlwriter</module>
+        <module>gpdbwriter</module>
+        <module>chdbwriter</module>
     </modules>
 
     <dependencyManagement>
